@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/rykerdz/Desktop/M2/sim/tp_1/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/projet1.dir/main.cpp.o -c /home/rykerdz/Desktop/M2/sim/tp_1/main.cpp",
+  "file": "/home/rykerdz/Desktop/M2/sim/tp_1/main.cpp"
+},
+
+{
+  "directory": "/home/rykerdz/Desktop/M2/sim/tp_1/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/projet1.dir/shader/shader.cpp.o -c /home/rykerdz/Desktop/M2/sim/tp_1/shader/shader.cpp",
+  "file": "/home/rykerdz/Desktop/M2/sim/tp_1/shader/shader.cpp"
+},
+
+{
+  "directory": "/home/rykerdz/Desktop/M2/sim/tp_1/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/projet1.dir/glad.c.o   -c /home/rykerdz/Desktop/M2/sim/tp_1/glad.c",
+  "file": "/home/rykerdz/Desktop/M2/sim/tp_1/glad.c"
+},
+
+{
+  "directory": "/home/rykerdz/Desktop/M2/sim/tp_1/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/projet1.dir/model/objload.cpp.o -c /home/rykerdz/Desktop/M2/sim/tp_1/model/objload.cpp",
+  "file": "/home/rykerdz/Desktop/M2/sim/tp_1/model/objload.cpp"
+}
+]

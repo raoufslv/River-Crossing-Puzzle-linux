@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c89-gcc"
+	BuildStamp="20231017-0853-Experimental"
+	Name="rykerdz-Laptop"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="rykerdz-Laptop"
+	OSRelease="5.15.0-86-generic"
+	OSVersion="#96~20.04.1-Ubuntu SMP Thu Sep 21 13:23:37 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7793"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2463.9"
+	>
+	<Testing>
+		<StartDateTime>Oct 17 11:04 CET</StartDateTime>
+		<StartTestTime>1697537055</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 17 11:04 CET</EndDateTime>
+		<EndTestTime>1697537055</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
